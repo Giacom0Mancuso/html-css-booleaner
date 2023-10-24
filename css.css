@@ -23,12 +23,18 @@ p{
     font-size: 15px;
 }
 footer{
-    width: 80%;
+    height: 100%;
     margin: 0 auto; 
     text-align: center;
-    background-color: blue;
-}
+    background-color: #313A6B;
+    height: max-content;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+ }
 .footer{
+    color: white;
     margin: 10px;
-    font-size: 10px;
+    font-size: 12px;
 }
