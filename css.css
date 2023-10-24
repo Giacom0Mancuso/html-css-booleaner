@@ -4,11 +4,20 @@
 
 }
 
-div{
+.header{
     background-color: #9CD6F4;
     background-image: url(./img/img/pattern.png);
 }
 .title{
     height: 40px;
     margin: 20px;
+}
+.main{
+      margin: 0 auto;
+}
+mark{
+    background-color: yellow;
+}
+p{
+    font-size: 15px;
 }
