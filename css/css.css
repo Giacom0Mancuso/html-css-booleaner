@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+div{
+    background-color: #9CD6F4;;
+}
+.title{
+    height: 40px;
+    margin: 20px;
+}
